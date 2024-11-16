@@ -89,7 +89,7 @@ section{
     background-color: rgb(73, 63, 82);
     margin-top: 10px;
     margin-left: 50px;
-    background-image: url(../ultima/img/png.png);
+    background-image: url(./ultima/img/png.png);
     background-repeat:no-repeat;
     background-size: cover;
     background-position: center;
